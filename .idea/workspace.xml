@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9402627-e0f3-4410-870a-d5bf623ee377" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite/MySite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySite/MySite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/MySite/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSite/TestSite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestSite/TestSite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSite/TestSite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestSite/TestSite/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9402627-e0f3-4410-870a-d5bf623ee377" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +73,7 @@
       <workItem from="1678685101015" duration="3000" />
       <workItem from="1678707779485" duration="604000" />
       <workItem from="1678770268817" duration="146000" />
-      <workItem from="1678883660283" duration="375000" />
+      <workItem from="1678883660283" duration="801000" />
     </task>
     <servers />
   </component>
