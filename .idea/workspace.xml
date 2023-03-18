@@ -1,7 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9402627-e0f3-4410-870a-d5bf623ee377" name="Changes" comment="" />
+    <list default="true" id="e9402627-e0f3-4410-870a-d5bf623ee377" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/.idea/NewSite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/NewSite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/NewSite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/NewSite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/NewSite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/NewSite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewSite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/djangoProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/djangoProject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/djangoProject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/djangoProject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/djangoProject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/djangoProject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/css/bradley.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/css/edits.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/advertising-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/advertising-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/advertising-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/advertising-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/blog1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/blog2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/blog3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/branding-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/branding-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/branding-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/branding-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/branding-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/digital-laptop-working-global-business-concept.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/web-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/web-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/web-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/imgs/web-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/js/johndoe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/abstracts/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/abstracts/mixins/_shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/abstracts/mixins/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/johndoe.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/layout/_sections.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/scss/vendors/bootstrap-4.3.1/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/bootstrap/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/isotope/isotope.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/isotope/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/jquery/jquery-3.4.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/jquery/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/jquery/jquery-3.4.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/jquery/jquery-3.4.1.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/jquery/jquery-3.4.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/jquery/jquery-3.4.1.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/themify-icons/css/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/themify-icons/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/themify-icons/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/themify-icons/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/static/vendors/themify-icons/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/templates/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +219,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/emobilis/Desktop/BradleyProjects/Django-Projects",
+    "last_opened_file_path": "C:/Users/USER/Documents/GitHub/Django-Projects/DjangoDocTest",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,8 +262,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Django_Projects$urls.coverage" NAME="urls Coverage Results" MODIFIED="1678366803953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySite/MySite" />
   </component>
 </project>
