@@ -1,4 +1,5 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect, HttpResponse
+from django.template import loader
 from .models import User
 
 # Create your views here.
@@ -28,5 +29,29 @@ def registered_users(request):
     return render(request, "table.html", context)
 
 
-def updateuser(request):
-    return render(request, 'edit.html')
+def deletedata(request, id):
+    data = User.objects.get(id=id)
+    data.delete()
+    
+
+    return redirect("/accounts")
+
+
+def updateuser(request, id):
+    d = User.objects.get(id=id)
+    template = loader.get_template('update.html')
+    context = {"d": d}
+
+    return HttpResponse(template.render(context, request))
+
+    
+def updaterecord(request, id):
+    name = request.POST['name']
+    email = request.POST['email']
+    message = request.POST['message']
+    d = User.objects.get(id=id)
+    d.name = name
+    d.email = email
+    d.message = message
+    d.save()
+    return redirect("/accounts")

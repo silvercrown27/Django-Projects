@@ -4,15 +4,6 @@ from .models import User
 
 # Create your views here.
 
-
-def homepage(request):
-    return render(request, 'index.html')
-
-
-def editpage(request):
-    return render(request, 'edit.html')
-
-
 def loginpage(request):
     return render(request, 'login.html')
 

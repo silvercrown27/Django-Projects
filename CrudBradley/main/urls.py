@@ -10,5 +10,5 @@ urlpatterns = [
     path('page/', views.pagepage, name='page'),
     path('insert', views.insertdata, name='insertdata'),
     path('delete/<id>', views.deletedata, name="delete"),
-    path('update/<id>', views.updatedata, name="delete")
+    path('update/<id>', views.updatedata, name="update")
 ]
