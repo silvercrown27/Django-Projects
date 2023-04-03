@@ -51,3 +51,17 @@ def displaydata(request):
     context = {"data": data}
 
     return render(request, "index.html", context)
+
+
+def deletedata(request, id):
+    d = User.objects.get(id=id)
+    d.delete()
+    redirect("/")
+
+    return render(request, 'index.html')
+
+
+def updatedata():
+    d = User.objects.get(id=id)
+    redirect('update.html')
+
